@@ -29,7 +29,7 @@
 
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ. 
 
-![rabbitmq](https://github.com/dmitri13/11.4/blob/main/img/rabbitmq.pnp)
+![rabbitmq](https://github.com/dmitri13/11.4/blob/main/img/rabbitmq.png)
 ---
 
 ### Задание 2

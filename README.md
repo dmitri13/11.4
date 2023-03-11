@@ -80,7 +80,7 @@ $ rabbitmqadmin get queue='hello'
 
 Приложите скриншот результата работы второго скрипта.
 
-![rabbit1](https://github.com/dmitri13/11.4/blob/main/img/rabbit111.png)
+![rabbit1](https://github.com/dmitri13/11.4/blob/main/img/rabbit1111.png)
 
 ![rabbit2](https://github.com/dmitri13/11.4/blob/main/img/rabbit222.png)
 
